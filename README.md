@@ -67,3 +67,6 @@ wasm-pack publish
   for logging panic messages to the developer console.
 * [`wee_alloc`](https://github.com/rustwasm/wee_alloc), an allocator optimized
   for small code size.
+
+
+앱잼 기간 중 할애할 수 있는 시간에 대하여
